@@ -1,0 +1,14 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python"
+  },
+  "python.formatting.blackArgs": ["--line-length", "220"],
+  "python.formatting.provider": "black",
+  "cSpell.words": [
+    "imag",
+    "phasor",
+    "phasors",
+    "qpoint"
+  ]
+}
